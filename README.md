@@ -99,7 +99,7 @@ POST /predict
   "timestamp": "2026-06-03T..."
 }
 ```
-###Key Highlights
+### Key Highlights
 
 - Clean modular code structure
 - Professional API with confidence scores and probability breakdown
