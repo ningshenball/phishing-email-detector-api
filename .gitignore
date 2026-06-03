@@ -1,0 +1,15 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+env/
+.env
+
+# Model files (optional - remove this line if you want to upload models)
+# models/
+
+# Streamlit
+.streamlit/
