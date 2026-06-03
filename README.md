@@ -77,11 +77,11 @@ uvicorn app:app --reload
 streamlit run dashboard.py
 ```
 ### API Endpoints
-Method,Endpoint,Description
-GET,/,API status
-GET,/health,Health check
-POST,/predict,Predict if email is phishing
-
+| Method| Accuracy  | Description                    |
+|-------|-----------|--------------------------------|
+| GET   | /         | API status                     |
+| GET   | /health   | Health check                   |
+|POST   | /predict  | Predict if email is phishing   |
 ### Example Request
 ```
 POST /predict
