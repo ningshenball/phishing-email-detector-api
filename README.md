@@ -113,6 +113,6 @@ POST /predict
 - Use advanced models (BERT, transformers)
 - Add user authentication for the dashboard
 
-## Built as a Cybersecurity Internship Project
+## Built as part of Cyber Security learning and intern project
 
 
