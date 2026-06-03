@@ -2,14 +2,14 @@
 
 A machine learning-powered API that detects whether an email is **Phishing** or **Safe** using Natural Language Processing and additional engineered features.
 
-## 🚀 Features
+##  Features
 
 - Detects phishing emails with high accuracy (~96.4%)
 - Uses TF-IDF + extra features (URLs, exclamation marks, urgent words)
 - Built with **FastAPI** for fast and clean API responses
 - Deployed and publicly accessible
 
-## 🛠 Tech Stack
+##  Tech Stack
 
 - Python
 - FastAPI
@@ -17,7 +17,7 @@ A machine learning-powered API that detects whether an email is **Phishing** or 
 - Pandas & NumPy
 - Render (Deployment)
 
-## 📊 Model Performance
+##  Model Performance
 
 | Model              | Accuracy |
 |--------------------|----------|
@@ -26,7 +26,7 @@ A machine learning-powered API that detects whether an email is **Phishing** or 
 
 **Best Model:** Random Forest
 
-## 🔗 Live API
+##  Live API
 
 **Base URL:** `https://phishing-email-detector-api.onrender.com`
 
